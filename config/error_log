@@ -1,0 +1,4 @@
+[29-Nov-2021 17:29:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/hrinnovative/public_html/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/hrinnovative/public_html/config/database.php on line 29
